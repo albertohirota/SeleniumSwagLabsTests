@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumSwagLabsTests", "SeleniumSwagLabsTests\SeleniumSwagLabsTests.csproj", "{CC90388E-228B-4B95-9944-9FAF3683F27F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwagLabs", "SwagLabs\SwagLabs.csproj", "{61C80AAF-2864-4845-9B18-3371B2E0BE29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC90388E-228B-4B95-9944-9FAF3683F27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC90388E-228B-4B95-9944-9FAF3683F27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC90388E-228B-4B95-9944-9FAF3683F27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC90388E-228B-4B95-9944-9FAF3683F27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C80AAF-2864-4845-9B18-3371B2E0BE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C80AAF-2864-4845-9B18-3371B2E0BE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C80AAF-2864-4845-9B18-3371B2E0BE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C80AAF-2864-4845-9B18-3371B2E0BE29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F48E1228-466B-4259-A387-E470F37DC61C}
+	EndGlobalSection
+EndGlobal
